@@ -26,7 +26,7 @@ int main(){
 
     } else{ // pai
         wait(&status);
-        printf("processo pai\t pid: %d\n", getpid(), getppid());
+        printf("processo pai\t pid: %d\n", getpid());
     }
 
     exit(0);
