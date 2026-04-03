@@ -3,7 +3,6 @@
 int main() {
     fork();
     fork();
-    fork();
     printf("Oi\n");
     return 0;
 }
